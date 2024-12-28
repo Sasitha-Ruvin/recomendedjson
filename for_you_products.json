@@ -1,16 +1,16 @@
 [
     {
-      "imageUrl": "https://raw.githubusercontent.com/Sasitha-Ruvin/arts/main/art2.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Sasitha-Ruvin/recomendedjson/main/knight.jpg",
       "name": "Knight & Companion", 
       "price": 18.99
     },
     {
-      "imageUrl": "https://raw.githubusercontent.com/Sasitha-Ruvin/arts/main/art3.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Sasitha-Ruvin/recomendedjson/main/image3.jpg",
       "name": "The Yellow Sun", 
       "price": 19.59
     },
     {
-      "imageUrl": "https://raw.githubusercontent.com/Sasitha-Ruvin/arts/main/art4.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Sasitha-Ruvin/recomendedjson/main/image2.jpg",
       "name": "Castle By Lake", 
       "price": 15.99
     }
